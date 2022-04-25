@@ -1,0 +1,2 @@
+# .github
+DKW Aalborg University
