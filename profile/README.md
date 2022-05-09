@@ -43,4 +43,3 @@ This project is concerned with developing analytic techniques over medical data.
 * [SPARQL PROV Rewriting](https://github.com/dkw-aau/sparql-prov-rewriting) A query rewriting to compute how-provenance
 * [SPARQL PROV WDC](https://github.com/dkw-aau/sparql-prov-wdc) Provenance for SPARQL queries via Query Rewriting: WDC benchmark
 * [SPARQL PROV BTC](https://github.com/dkw-aau/sparql-prov-btc) Provenance for SPARQL queries via Query Rewriting: BTC benchmark
-* 
