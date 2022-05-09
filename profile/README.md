@@ -32,3 +32,15 @@ This project is concerned with developing analytic techniques over medical data.
 * [Jena Clone](https://github.com/dkw-aau/jenaclone-3.17)
 * [RDF store benchmark](https://github.com/dkw-aau/rdf-store-benchmark)
 * [Leapfrog RDF Benchmark](https://github.com/dkw-aau/leapfrog-rdf-benchmark)
+
+
+### Daniel Hernandez's work on Provenance
+
+* [SPARQLprov VLDB2021](https://github.com/dkw-aau/SPARQLprov-VLDB2021) Experiment reproducibility for SPARQLprov VLDB 2021 paper
+* [SPARQLprov](https://github.com/dkw-aau/SPARQLprov) A query rewriting based tool to compute the provenance of SPARQL answer
+* [SPARQL-prov-watdiv](https://github.com/dkw-aau/sparql-prov-watdiv) Provenance experiments based on the WatDiv benchmark
+* [Paper Repository for vldb-2021-v2-provenance-via-query-rewriting](https://github.com/dkw-aau/vldb-2021-v2-provenance-via-query-rewriting)
+* [SPARQL PROV Rewriting](https://github.com/dkw-aau/sparql-prov-rewriting) A query rewriting to compute how-provenance
+* [SPARQL PROV WDC](https://github.com/dkw-aau/sparql-prov-wdc) Provenance for SPARQL queries via Query Rewriting: WDC benchmark
+* [SPARQL PROV BTC](https://github.com/dkw-aau/sparql-prov-btc) Provenance for SPARQL queries via Query Rewriting: BTC benchmark
+* 
