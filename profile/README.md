@@ -17,7 +17,7 @@ The following are a list of repositories. This list is intended to help people f
 
 This project is concerned with developing analytic techniques over medical data. 
 
-* [Patient Graph Embedding](https://github.com/dkw-aau/patient_graph_embedding)
+* [Patient Graph Feature Inititalization](https://github.com/dkw-aau/ehr_graph_feature_initialization) Experimental code for pre-initializing node features of an EHR graph using auxiliary domein hierarchies
 * [MIMIC for AIIM](https://github.com/dkw-aau/mimic_for_aiim) MIMIC data experiments for AIM publication: Assigning diagnosis codes from medication history
 * [Alert LPR](https://github.com/dkw-aau/alert-lpr) LPR experiments for AIM publication: Assigning diagnosis codes from medication history
 * [MIMIC Demo for ALERT](https://github.com/dkw-aau/mimic-demo-for-alert) MIMIC data experiments for AIME publication: Towards assigning diagnosis codes from medication history. 
