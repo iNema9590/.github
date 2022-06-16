@@ -21,7 +21,6 @@ This project is concerned with developing analytic techniques over medical data.
 * [MIMIC for AIIM](https://github.com/dkw-aau/mimic_for_aiim) MIMIC data experiments for AIM publication: Assigning diagnosis codes from medication history
 * [Alert LPR](https://github.com/dkw-aau/alert-lpr) LPR experiments for AIM publication: Assigning diagnosis codes from medication history
 * [MIMIC Demo for ALERT](https://github.com/dkw-aau/mimic-demo-for-alert) MIMIC data experiments for AIME publication: Towards assigning diagnosis codes from medication history. 
-* [Patient Graph Benchmark](https://github.com/dkw-aau/patient-graph-benchmark)
 
 
 ### RDF Indexes
