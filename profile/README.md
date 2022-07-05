@@ -33,13 +33,6 @@ This project is concerned with developing analytic techniques over medical data.
 * [Leapfrog RDF Benchmark](https://github.com/dkw-aau/leapfrog-rdf-benchmark)
 
 
-### Kashif Rabbani's PhD work on SHACL shapes extraction and SPARQL query optimization
-
-* [Validating Shapes Survey](https://github.com/dkw-aau/validatingshapes)
-* [Quality Shape Extraction](https://github.com/dkw-aau/qse/)
-* [SPARQL Query Optimization using Shape Statistics](https://github.com/dkw-aau/sparql-optimization)
-
-
 ### Daniel Hernandez's work on Provenance
 
 * [SPARQLprov VLDB2021](https://github.com/dkw-aau/SPARQLprov-VLDB2021) Experiment reproducibility for SPARQLprov VLDB 2021 paper
@@ -49,3 +42,11 @@ This project is concerned with developing analytic techniques over medical data.
 * [SPARQL PROV Rewriting](https://github.com/dkw-aau/sparql-prov-rewriting) A query rewriting to compute how-provenance
 * [SPARQL PROV WDC](https://github.com/dkw-aau/sparql-prov-wdc) Provenance for SPARQL queries via Query Rewriting: WDC benchmark
 * [SPARQL PROV BTC](https://github.com/dkw-aau/sparql-prov-btc) Provenance for SPARQL queries via Query Rewriting: BTC benchmark
+
+
+### Kashif Rabbani's PhD work on SHACL shapes extraction and SPARQL query optimization
+
+* [Validating Shapes Survey](https://github.com/dkw-aau/validatingshapes)
+* [Quality Shape Extraction](https://github.com/dkw-aau/qse/)
+* [SPARQL Query Optimization using Shape Statistics](https://github.com/dkw-aau/sparql-optimization)
+
