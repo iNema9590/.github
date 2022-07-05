@@ -33,11 +33,11 @@ This project is concerned with developing analytic techniques over medical data.
 * [Leapfrog RDF Benchmark](https://github.com/dkw-aau/leapfrog-rdf-benchmark)
 
 
-### Kashif's PhD work on SHACL shapes extraction and SPARQL query optimization
+### Kashif Rabbani's PhD work on SHACL shapes extraction and SPARQL query optimization
 
 * [Validating Shapes Survey](https://github.com/dkw-aau/validatingshapes)
 * [Quality Shape Extraction](https://github.com/dkw-aau/qse/)
-* [SPARQL Query Optimization using Shape Statistics](#)
+* [SPARQL Query Optimization using Shape Statistics](https://github.com/dkw-aau/sparql-optimization)
 
 
 ### Daniel Hernandez's work on Provenance
