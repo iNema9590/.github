@@ -50,3 +50,6 @@ This project is concerned with developing analytic techniques over medical data.
 * [Quality Shape Extraction](https://github.com/dkw-aau/qse/)
 * [SPARQL Query Optimization using Shape Statistics](https://github.com/dkw-aau/sparql-optimization)
 
+
+### Ikhtiyor Nematov's PhD project on explainability for weak supervision
+* [Explainabiity for weak supervision](https://github.com/dkw-aau/Explainability-for-Weak-Supervision)
